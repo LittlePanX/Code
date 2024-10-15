@@ -1,0 +1,14 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+int main()
+{
+	int amount = 0;
+	int price = 0;
+	printf("«Î ‰»Î”‡∂Ó",amount);
+	scanf("%d", &amount);
+	printf("«Î ‰»Îº€∏Ò", price);
+	scanf("%d", & price);
+	int change = amount - price;
+	printf("’“ƒ˙%d\n",change);
+    return 0;
+}

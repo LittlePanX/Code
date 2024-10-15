@@ -1,0 +1,4 @@
+﻿  2.c
+F:\代码\Project2\2.c(7,27): warning C4474: printf: 格式字符串中传递的参数太多
+F:\代码\Project2\2.c(9,28): warning C4474: printf: 格式字符串中传递的参数太多
+  Project2.vcxproj -> F:\代码\Project2\x64\Debug\Project2.exe
