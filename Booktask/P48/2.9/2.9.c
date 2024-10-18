@@ -1,4 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main() {
 	int max = 0, min = 1000000000, maxx = -1000000000, minn = 0, num;
@@ -21,6 +20,6 @@ int main() {
 			}
 		}
 	}
-	printf("×î´óÕıÕûÊıÎª:%d\n×îĞ¡ÕıÕûÊıÎª:%d\n×î´ó¸ºÕûÊıÎª:%d\n×îĞ¡¸ºÕûÊıÎª:%d\n", max, min, maxx, minn);
+	printf("æœ€å¤§æ­£æ•´æ•°ä¸º:%d\næœ€å°æ­£æ•´æ•°ä¸º:%d\næœ€å¤§è´Ÿæ•´æ•°ä¸º:%d\næœ€å°è´Ÿæ•´æ•°ä¸º:%d\n", max, min, maxx, minn);
 	return 0;
 }
