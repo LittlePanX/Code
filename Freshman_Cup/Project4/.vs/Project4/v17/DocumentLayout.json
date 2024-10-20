@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHubCode\\Code\\Exam\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8948B156-BB8A-42A6-9016-12F9821B68C3}|Project4.vcxproj|F:\\GitHubCode\\Code\\Exam\\Project4\\D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8948B156-BB8A-42A6-9016-12F9821B68C3}|Project4.vcxproj|solutionrelative:D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D.c",
+              "DocumentMoniker": "F:\\GitHubCode\\Code\\Exam\\Project4\\D.c",
+              "RelativeDocumentMoniker": "D.c",
+              "ToolTip": "F:\\GitHubCode\\Code\\Exam\\Project4\\D.c",
+              "RelativeToolTip": "D.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-20T06:43:48.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
