@@ -1,4 +1,4 @@
 # Daily Code
-<[!NOTE]
-<Practice makes perfect!
-##潘钰楷
+### 潘钰楷
+>[!NOTE]
+>Practice makes perfect!
