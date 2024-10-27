@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHubCode\\Code\\Practice\\Projec23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A6FDA8-5157-41BE-B773-580F5D9190AC}|Projec23.vcxproj|F:\\GitHubCode\\Code\\Practice\\Projec23\\\u6587\u4EF6\u6307\u9488.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0A6FDA8-5157-41BE-B773-580F5D9190AC}|Projec23.vcxproj|solutionrelative:\u6587\u4EF6\u6307\u9488.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6587\u4EF6\u6307\u9488.c",
+              "DocumentMoniker": "F:\\GitHubCode\\Code\\Practice\\Projec23\\\u6587\u4EF6\u6307\u9488.c",
+              "RelativeDocumentMoniker": "\u6587\u4EF6\u6307\u9488.c",
+              "ToolTip": "F:\\GitHubCode\\Code\\Practice\\Projec23\\\u6587\u4EF6\u6307\u9488.c",
+              "RelativeToolTip": "\u6587\u4EF6\u6307\u9488.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-23T05:08:24.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

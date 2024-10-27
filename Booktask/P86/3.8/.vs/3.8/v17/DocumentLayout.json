@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHubCode\\Code\\Booktask\\P86\\3.8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1672458C-C72A-400E-AEEF-3C6C68D6C895}|3.8.vcxproj|F:\\GitHubCode\\Code\\Booktask\\P86\\3.8\\3.8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1672458C-C72A-400E-AEEF-3C6C68D6C895}|3.8.vcxproj|solutionrelative:3.8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.8.c",
+              "DocumentMoniker": "F:\\GitHubCode\\Code\\Booktask\\P86\\3.8\\3.8.c",
+              "RelativeDocumentMoniker": "3.8.c",
+              "ToolTip": "F:\\GitHubCode\\Code\\Booktask\\P86\\3.8\\3.8.c",
+              "RelativeToolTip": "3.8.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-27T04:10:47.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

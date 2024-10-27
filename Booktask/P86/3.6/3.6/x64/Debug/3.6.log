@@ -1,0 +1,4 @@
+﻿  3.6.c
+F:\GitHubCode\Code\Booktask\P86\3.6\3.6.c(7,16): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+F:\GitHubCode\Code\Booktask\P86\3.6\3.6.c(11,13): warning C4305: “初始化”: 从“int”到“char”截断
+  3.6.vcxproj -> F:\GitHubCode\Code\Booktask\P86\3.6\x64\Debug\3.6.exe
