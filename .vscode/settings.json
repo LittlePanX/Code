@@ -1,6 +1,7 @@
 {
     "marscode.chatLanguage": "cn",
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "math.h": "c"
     }
 }
