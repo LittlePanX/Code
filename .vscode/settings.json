@@ -2,6 +2,7 @@
     "marscode.chatLanguage": "cn",
     "files.associations": {
         "stdio.h": "c",
-        "math.h": "c"
+        "math.h": "c",
+        "iostream": "cpp"
     }
 }
