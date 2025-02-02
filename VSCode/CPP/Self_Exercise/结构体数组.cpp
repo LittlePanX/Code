@@ -9,10 +9,7 @@ struct Student
 };
 int main()
 {
-    struct Student stu[3] = {
-        {"张三", 18, 100},
-        {"李四", 19, 90},
-        {"王五", 20, 80}};
+    struct Student stu[3] = {{"张三", 18, 100}, {"李四", 19, 90}, {"王五", 20, 80}};
     for (int i = 0; i < 3; i++)
     {
         cout << "姓名:" << stu[i].name << endl;
