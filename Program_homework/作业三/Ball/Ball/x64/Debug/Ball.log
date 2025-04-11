@@ -1,0 +1,16 @@
+﻿  Ball.cpp
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(20,22): warning C4838: 从“int”转换到“float”需要收缩转换
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(20,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(21,22): warning C4838: 从“int”转换到“float”需要收缩转换
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(21,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(22,27): warning C4838: 从“int”转换到“float”需要收缩转换
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(22,27): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(23,27): warning C4838: 从“int”转换到“float”需要收缩转换
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(23,27): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(44,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(44,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(46,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(46,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(48,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\GitHubCode\Code\Program_homework\作业三\Ball\Ball.cpp(48,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Ball.vcxproj -> F:\GitHubCode\Code\Program_homework\作业三\Ball\x64\Debug\Ball.exe
